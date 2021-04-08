@@ -1,0 +1,43 @@
+a{ 
+    color: #ff0099;
+}
+h1{
+    text-align: start
+}
+head{
+    
+    
+    margin: 5em;
+    line-height: 5em;
+    font-size: large;
+    font-family: 'Train One', cursive;
+    line-break: strict;
+}
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    line-height: 3em;
+    background-image:url(topography.png) ;
+    font-size: 30px;
+}
+
+svg{
+    align-items: flex-start;
+
+}
+
+div.navbar{
+    font-family: 'Train One', cursive;
+    background-color: #333333;
+    
+}
+
+.Navb1{
+    padding-left: 30px;
+
+}
+h2{
+    display: block;
+    text-align: start;
+}
